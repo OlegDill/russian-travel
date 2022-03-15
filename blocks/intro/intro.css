@@ -6,7 +6,7 @@
   .intro {
     max-width: 690px;
     max-height: 429px;
-    margin: 0 auto 0 148px
+    margin: 0 auto 0 148px;
   }
 }
 
@@ -14,7 +14,7 @@
   .intro {
     max-width: 690px;
     max-height: 429px;
-    margin: 0 auto 0 48px
+    margin: 0 auto 0 48px;
   }
 }
 
@@ -22,7 +22,7 @@
   .intro {
     max-width: 720px;
     max-height: 429px;
-    margin: 0 auto 0 24px
+    margin: 0 auto 0 24px;
   }
 }
 
@@ -30,6 +30,6 @@
   .intro {
     max-width: 288px;
     max-height: 754px;
-    margin: 0 auto 0 16px
+    margin: 0 auto 0 16px;
   }
 }

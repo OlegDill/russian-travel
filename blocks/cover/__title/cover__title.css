@@ -1,7 +1,6 @@
 .cover__title {
   margin: 0;
   text-align: center;
-  grid-row: 1/2;
   align-self: end;
   justify-self: center;
   position: relative;

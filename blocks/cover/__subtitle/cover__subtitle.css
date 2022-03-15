@@ -1,7 +1,6 @@
 .cover__subtitle {
   margin: 0;
   text-align: center;
-  grid-row: 2/3;
   align-self: start;
   justify-self: center;
   position: relative;

@@ -6,32 +6,29 @@
   grid-column: 1/2;
   opacity: 0.8;
   transition: opacity 1s;
+  width: 100%;
 }
 
 @media (max-width: 1280px), (min-width: 1281px) {
   .cover__background {
-    width: 1184px;
     min-height: 740px;
   }
 }
 
 @media (max-width: 1024px) {
   .cover__background {
-    width: 1024px;
     min-height: 640px;
   }
 }
 
 @media (max-width: 768px) {
   .cover__background {
-    width: 768px;
     min-height: 480px;
   }
 }
 
 @media (max-width: 320px) {
   .cover__background {
-    width: 320px;
     min-height: 200px;
   }
 }

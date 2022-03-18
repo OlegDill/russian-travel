@@ -4,28 +4,28 @@
 
 @media (max-width: 1280px), (min-width: 1281px) {
   .lead {
-    margin: 56px auto 92px 148px;
-    width: 984px;
+    margin: 56px 148px 92px;
+    width: calc(100% - 296px);
   }
 }
 
 @media (max-width: 1024px) {
   .lead {
-    margin: 48px auto 92px;
-    width: 928px;
+    margin: 48px 48px 92px;
+    width: calc(100% - 96px);
   }
 }
 
 @media (max-width: 768px) {
   .lead {
     margin: 48px 0 88px;
-    width: 768px;
+    width: 100%;
   }
 }
 
 @media (max-width: 320px) {
   .lead {
     margin: 48px 0 64px;
-    width: 320px;
+    width: 100%;
   }
 }

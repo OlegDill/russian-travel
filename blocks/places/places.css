@@ -1,18 +1,22 @@
 .places {
   display: grid;
-  margin: 0 auto;
+  margin: 0;
 }
 
 @media (max-width: 1280px), (min-width: 1281px) {
   .places {
     max-width: 984px;
     grid-gap: 64px;
+    margin-left: 148px;
+    margin-right: 148px;
   }
 }
 
 @media (max-width: 1024px) {
   .places {
     max-width: 928px;
+    margin-left: 48px;
+    margin-right: 48px;
   }
 }
 
@@ -20,6 +24,8 @@
   .places {
     max-width: 720px;
     grid-gap: 57px;
+    margin-left: 24px;
+    margin-right: 24px;
   }
 }
 

@@ -7,6 +7,7 @@
     margin-left: 148px;
     margin-right: 148px;
     margin-top: 56px;
+    margin-bottom: 92px;
     width: calc(100% - 296px);
   }
 }
@@ -16,7 +17,6 @@
     margin-left: 48px;
     margin-right: 48px;
     margin-top: 48px;
-    margin-bottom: 92px;
     width: calc(100% - 96px);
   }
 }
@@ -33,7 +33,5 @@
 @media (max-width: 320px) {
   .lead {
     margin-bottom: 64px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }

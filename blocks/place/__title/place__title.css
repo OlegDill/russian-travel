@@ -1,6 +1,10 @@
 .place__title {
   margin: 0;
   align-self: end;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
 }
 
 @media (max-width: 1280px), (min-width: 1281px) {

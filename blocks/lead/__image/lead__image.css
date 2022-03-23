@@ -1,31 +1,23 @@
 .lead__image {
   display: flex;
+  width: 100%;
+  margin: 0;
 }
 
 @media (max-width: 1280px), (min-width: 1281px) {
   .lead__image {
-    width: 100%;
-    margin: 64px auto 0 auto;
+    margin-top: 64px;
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1024px), (max-width: 768px) {
   .lead__image {
-    width: 100%;
-    margin: 56px auto 0 auto;
+    margin-top: 56px;
   }
 }
   
-@media (max-width: 768px) {
-  .lead__image {
-    width: 100%;
-    margin: 56px auto 0 auto;
-  }
-}
-
 @media (max-width: 320px) {
   .lead__image {
-    width: 100%;
-    margin: 40px auto 0 auto;
+    margin-top: 40px;
   }
 }

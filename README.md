@@ -13,5 +13,5 @@
 Структура проекта выполнена по правилам **Nested БЭМ**.
 
 ---
- © 2022 [Oleg Dill](https://github.com/OlegDill "ссылка")
+ © 2022 [Oleg Dill](https://olegdill.github.io/russian-travel/ "ссылка")
  

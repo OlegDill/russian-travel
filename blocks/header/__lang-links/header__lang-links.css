@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
   list-style-type: none;
-  align-self: flex-end;
-  width: 78px;
+  max-width: 78px;
   justify-content: space-between;
+  align-self: center;
 }

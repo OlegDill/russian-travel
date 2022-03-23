@@ -1,7 +1,7 @@
 .place__website_link {
   color: #FFFFFF;
-  margin: 0;
   text-decoration-line: underline;
   font-size: 18px;
   line-height: 22px;
+  margin-bottom: 48px;
 }

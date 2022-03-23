@@ -1,0 +1,15 @@
+.footer__url {
+  margin: 0;
+  margin-right: 18px;
+}
+
+.footer__url:last-child {
+  margin: 0;
+}
+
+@media (max-width: 320px) {
+  .footer__url {
+    margin: 0;
+    margin-bottom: 32px;
+  }
+}

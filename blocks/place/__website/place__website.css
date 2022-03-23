@@ -1,12 +1,10 @@
 .place__website {
-  padding: 0;
-  list-style-type: none;
   align-self: end;
 }
 
 @media (max-width: 320px) {
   .place__website {
-    margin: 0 auto 12px 8px;
+    margin-left: 8px;
     grid-row-start: 2;
     grid-row-end: 3;
   }

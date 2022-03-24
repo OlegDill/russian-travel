@@ -6,7 +6,7 @@
   margin-right: 0;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 675px) {
   .footer__url {
     margin-right: 0;
     margin-bottom: 32px;

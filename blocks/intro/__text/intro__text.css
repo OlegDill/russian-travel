@@ -15,9 +15,9 @@
   }
 }
   
-@media (max-width: 320px) {
+@media (max-width: 675px) {
   .intro__text {
-    max-width: 288px;
+    max-width: calc(100% - 32px);
     margin-bottom: 34px;
   }
 }

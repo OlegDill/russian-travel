@@ -9,11 +9,11 @@
   margin: 0 auto 32px auto;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 675px) {
   .lead__title {
-      max-width: 288px;
-      font-size: 40px;
-      line-height: 44px;
+      max-width: calc(100% - 32px);
+      font-size: calc(12vw + 2px);
+      line-height: calc(12vw + 6px);
       margin-bottom: 16px;
   }
 }

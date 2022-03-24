@@ -16,9 +16,9 @@
   }
 }
 
-  @media (max-width: 320px) {
+  @media (max-width: 675px) {
   .footer {
-    max-width: 186px;
+    max-width: calc(100% - 134px);
     margin-right: auto;
     margin-left: 16px;
     flex-direction: column;

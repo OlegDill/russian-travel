@@ -5,5 +5,4 @@
 
 .opacity-link:hover {
   opacity: .2;
-  transition: opacity .5s;
 }

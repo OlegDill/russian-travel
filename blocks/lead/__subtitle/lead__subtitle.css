@@ -9,7 +9,7 @@
   line-height: 36px;
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .lead__subtitle {
     max-width: calc(100% - 32px);
     font-size: 5vw;

@@ -16,7 +16,7 @@
   }
 }
 
-  @media (max-width: 675px) {
+  @media (max-width: 690px) {
   .footer {
     max-width: calc(100% - 134px);
     margin-right: auto;

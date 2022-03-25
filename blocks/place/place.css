@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .place {
     grid-template-columns: 1fr;
   }

@@ -29,7 +29,7 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .places {
     max-width: 100%;
     grid-gap: 50px;

@@ -33,7 +33,7 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .place__paragraph {
     max-width: calc(100% - 32px);
     margin: 32px auto 25px auto;

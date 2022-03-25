@@ -19,5 +19,6 @@
     font-size: 10vw;
     line-height: 11vw;
     max-width: calc(100% - 32px);
+    margin-bottom: 16px;
   }
 }

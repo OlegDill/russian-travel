@@ -23,7 +23,7 @@
   }
 }
 
-@media (max-width: 670px) {
+@media (max-width: 690px) {
   .intro {
     max-width: calc(100% - 32px);
     min-height: calc(754px - 45vw);

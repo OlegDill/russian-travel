@@ -25,10 +25,10 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .cover {
     margin-top: 66px;
     margin-bottom: 64px;
-    min-height: 65vw;
+    min-height: calc(65vw - 8px);
   }
 }

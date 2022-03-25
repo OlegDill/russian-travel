@@ -29,8 +29,8 @@
   }
 }
 
-@media (max-width: 675px) {
+@media (max-width: 690px) {
   .cover__background {
-    min-height: 65vw;
+    min-height: calc(65vw - 8px);
   }
 }

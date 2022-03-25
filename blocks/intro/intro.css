@@ -23,10 +23,10 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 670px) {
   .intro {
-    max-width: 288px;
-    min-height: 754px;
+    max-width: calc(100% - 32px);
+    min-height: calc(754px - 45vw);
     margin-left: 16px;
   }
 }

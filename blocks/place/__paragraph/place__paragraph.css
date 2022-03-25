@@ -4,9 +4,13 @@
   font-weight: 400;
 }
 
-.place__paragraph:last-of-type {
+.place__paragraph:nth-child(2n+1) {
   margin-bottom: 0;
   margin-top: 0;
+}
+
+.place__paragraph:last-child {
+  margin-bottom: 0;
 }
 
 @media (max-width: 1280px), (min-width: 1281px) {

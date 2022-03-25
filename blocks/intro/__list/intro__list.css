@@ -16,6 +16,6 @@
 
 @media (max-width: 675px) {
   .intro__list {
-    max-width: calc(100% - 32px);
+    max-width: 100%;
   }
 }

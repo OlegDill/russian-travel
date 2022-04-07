@@ -4,4 +4,5 @@
   margin: 0 auto;
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   color: #FFFFFF;
+  overflow-x: hidden;
 }
